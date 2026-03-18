@@ -355,7 +355,7 @@ python manage.py test workflows
 python manage.py test executions
 ```
 [Watch demo](demo.mp4)
-![Demo](demo.gif)
+![Demo](demo.mp4)
 ![APP Screenshot](flowforge-dashboard.png)
 ![APP Screenshot](flowforge-workflow.png)
 ![APP Screenshot](flowforge-execution.png)
