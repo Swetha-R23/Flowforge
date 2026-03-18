@@ -353,9 +353,4 @@ python manage.py test workflows executions
 # Run specific app tests
 python manage.py test workflows
 python manage.py test executions
-```<img width="1867" height="921" alt="Screenshot 2026-03-18 113227" src="https://github.com/user-attachments/assets/d867af40-61e7-4aa6-acc7-fc999e5b8fe4" />
-<img width="1865" height="921" alt="Screenshot 2026-03-18 113249" src="https://github.com/user-attachments/assets/fb9f2b11-c000-4cd5-965b-c397a0953b38" />
-
-<img width="1865" height="919" alt="Screenshot 2026-03-18 113313" src="https://github.com/user-attachments/assets/3453b22c-b8e9-4577-a33c-3cba1d61590e" />
-
-<img width="1864" height="903" alt="Screenshot 2026-03-18 113331" src="https://github.com/user-attachments/assets/a521de52-7646-4ea7-afcb-9ca303e7ef0f" />
+```
