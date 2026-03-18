@@ -354,8 +354,11 @@ python manage.py test workflows executions
 python manage.py test workflows
 python manage.py test executions
 ```
-[Watch demo](demo.mp4)
-![Demo](demo.mp4)
+
+
+https://github.com/user-attachments/assets/9bdcb2d8-12e8-4cbc-8128-d98feff33e58
+
+
 ![APP Screenshot](flowforge-dashboard.png)
 ![APP Screenshot](flowforge-workflow.png)
 ![APP Screenshot](flowforge-execution.png)
